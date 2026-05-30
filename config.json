@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuncrypt",
+        "uuid": 4937625,
+        "checksum": "pf6r1"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
